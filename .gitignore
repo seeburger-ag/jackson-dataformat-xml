@@ -11,8 +11,6 @@ syntax: glob
 target
 
 # Eclipse
-.classpath
-.project
 .settings
 
 # IDEA
